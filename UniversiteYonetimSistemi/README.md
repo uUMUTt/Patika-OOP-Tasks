@@ -5,4 +5,4 @@
 - Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
 - Her çalışan bir ofiste çalışır.
 
-![image](/UniversiteYonetimSistemi.png)
+![image](UniversiteYonetimSistemi.png)
