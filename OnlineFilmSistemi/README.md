@@ -6,4 +6,4 @@
 - Normal kullanıcılar ve aboneler film satın alabilirler.
 - Eğer film mevcut değilse ise talep edilebilir.
 
-![image](/OnlineFilmSistemi.png)
+![image](OnlineFilmSistemi.png)
