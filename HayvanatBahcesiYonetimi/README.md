@@ -16,4 +16,4 @@ Sistem Yem verme zamanlarını hesaplayabilmelidir => getFeedSchedule ()
 Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı olacaktır. Örneğin, atlar için yem verme algoritması farklı olup, kaplanlar için farklı
 olacaktır.
 
-![image](/HayvanatBahcesiYonetimi.jpg)
+![image](HayvanatBahcesiYonetimi.jpg)
