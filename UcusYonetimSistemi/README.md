@@ -9,4 +9,4 @@
 - Havayolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.
 - Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
 
-![image](/UcusYonetimSistemi.png)
+![image](UcusYonetimSistemi.png)
